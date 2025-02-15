@@ -1,0 +1,1 @@
+import{_ as c,B as e,o as r,c as s,G as o,w as _}from"./framework.BRu0xxKU.js";const m={},i={class:"map-container"};function d(p,l){const t=e("mb-tianditu-layer"),a=e("mb-radar-layer"),n=e("mb-map");return r(),s("div",i,[o(n,{zoom:10,center:[116,39]},{default:_(()=>[o(t,{types:["img"]}),o(a,{coordinates:[116,39],radius:1e4})]),_:1})])}const f=c(m,[["render",d]]);export{f as D};

@@ -1,0 +1,1 @@
+import{_ as c,B as e,o as n,c as s,G as o,w as _}from"./framework.BRu0xxKU.js";const r={},m={style:{height:"400px"},class:"map-dark-bg"};function p(i,l){const t=e("mb-rain-layer"),a=e("mb-map");return n(),s("div",m,[o(a,{pitch:60,zoom:10},{default:_(()=>[o(t)]),_:1})])}const f=c(r,[["render",p]]);export{f as D};

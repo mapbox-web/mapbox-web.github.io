@@ -1,0 +1,1 @@
+import{_ as a,B as e,o as _,c as r,G as o,w as s}from"./framework.BRu0xxKU.js";const m={},i={class:"map-container"};function l(p,d){const t=e("mb-tianditu-layer"),c=e("mb-glow-circle-layer"),n=e("mb-map");return _(),r("div",i,[o(n,{zoom:10.5,center:[116,39]},{default:s(()=>[o(t),o(c,{center:[116,39],radius:1e4})]),_:1})])}const f=a(m,[["render",l]]);export{f as D};

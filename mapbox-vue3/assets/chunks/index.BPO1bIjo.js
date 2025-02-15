@@ -1,0 +1,1 @@
+import{g as u,d as o,r as f}from"./index.B0YS06CC.js";function h(t,n,a={}){if(a.final===!0)return g(t,n);const r=u(t),e=u(n),c=o(r[0]),i=o(e[0]),l=o(r[1]),s=o(e[1]),M=Math.sin(i-c)*Math.cos(s),d=Math.cos(l)*Math.sin(s)-Math.sin(l)*Math.cos(s)*Math.cos(i-c);return f(Math.atan2(M,d))}function g(t,n){let a=h(n,t);return a=(a+180)%360,a}var m=h;export{h as b,m as t};

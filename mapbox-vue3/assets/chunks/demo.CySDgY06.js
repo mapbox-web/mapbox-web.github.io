@@ -1,0 +1,1 @@
+import{_ as c,B as e,o as n,c as a,G as o,w as _}from"./framework.BRu0xxKU.js";const m={},r={style:{height:"400px"},class:"map-dark-bg"};function p(l,i){const t=e("mb-snow-layer"),s=e("mb-map");return n(),a("div",r,[o(s,{pitch:60,zoom:10},{default:_(()=>[o(t)]),_:1})])}const f=c(m,[["render",p]]);export{f as D};

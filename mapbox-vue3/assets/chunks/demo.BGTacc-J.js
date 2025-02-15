@@ -1,0 +1,1 @@
+import{_ as n,B as e,o as r,c as a,G as o,w as s}from"./framework.BRu0xxKU.js";const _={},m={class:"map-container",style:{"background-color":"rgb(15, 15, 15)"}};function l(i,p){const c=e("mb-wave-circle-layer"),t=e("mb-map");return r(),a("div",m,[o(t,{zoom:11,center:[116,39]},{default:s(()=>[o(c,{center:[116,39],radius:1e4})]),_:1})])}const b=n(_,[["render",l]]);export{b as D};
