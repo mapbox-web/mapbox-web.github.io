@@ -1,0 +1,1 @@
+import{d as t,h as r,o as c,c as a,t as i}from"./framework.BRsuZZrq.js";const l="1.0.0",p="1.0.0",m="1.0.0",v="1.0.0",_="1.0.0",d={style:{"font-weight":"bolder"}},$=t({__name:"versions",props:{module:String},setup(e){const o=e,s={core:l,"effect-layers":v,"deck-layers":p,"env-layers":m,utils:_},n=r(()=>s[o.module]);return(u,f)=>(c(),a("span",d,"v"+i(n.value),1))}});export{$ as _};
